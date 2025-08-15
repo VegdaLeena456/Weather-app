@@ -53,6 +53,7 @@ box-shadow: 1px -1px 13px 2px #828282;
   border-radius: 50%;
   width: 60px;
   height: 60px;
+  transition: transform 1s cubic-bezier(0, 0, 0, 1.44);
   padding: 19px;
   cursor: pointer;
 }
